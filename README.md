@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **backend with Java**
 
-- 🌱 I’m currently learning **development Mobile Application with Kotlin**
+- 🌱 I’m currently learning **development Mobile Application with Java**
 
 - 📫 How to reach me **eraysirdas@gmail.com**
 
