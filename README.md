@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eray Sırdaş</h1>
 <h3 align="center">A Computer Engineer Student from Turkey in Amasya University</h3>
 
-- 🔭 I’m currently working on [backend with Java](https://github.com/eraysirdas/MemberProjectOverview)
+- 🔭 I’m currently working on [Java](https://github.com/eraysirdas/MemberProjectOverview)
 
 - 🌱 I’m currently learning **development Mobile Application with Java**
 
