@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Eray+S%C4%B1rda%C5%9F;Computer+Engineering+Student;Mobile+App+Developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">👨‍💻 Aspiring Software Engineer | Amasya University, Turkey 🇹🇷</h3>
+<h3 align="center">👨‍💻 Software Engineer | Amasya University, Turkey 🇹🇷</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/eray-sırdaş-3213b0222">
