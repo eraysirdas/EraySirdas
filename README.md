@@ -55,6 +55,12 @@ class Eray:
 
 ## 📊 Stats
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eraysirdas/eraysirdas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eraysirdas/eraysirdas/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/eraysirdas/eraysirdas/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eraysirdas&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eraysirdas&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" width="48%" />
