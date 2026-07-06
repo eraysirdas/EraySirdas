@@ -64,6 +64,10 @@ class Eray:
 
 ## 📊 Stats
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eraysirdas/eraysirdas/main/github-metrics.svg" alt="Metrics" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eraysirdas/eraysirdas/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eraysirdas/eraysirdas/output/github-contribution-grid-snake.svg" />
@@ -72,3 +76,4 @@ class Eray:
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2196F3&height=100&section=footer" width="100%"/>
+
