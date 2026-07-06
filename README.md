@@ -42,13 +42,22 @@ class Eray:
 **Currently learning**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />
 </p>
 
 **Prior experience**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" />
 </p>
 
 <br/>
