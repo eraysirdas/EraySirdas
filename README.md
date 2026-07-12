@@ -23,7 +23,7 @@
 ```python
 class Eray:
     def __init__(self):
-        self.role = "Computer Engineering Student"
+        self.role = "Computer Engineer"
         self.university = "Amasya University 🇹🇷"
         self.currently_learning = ["Flutter", "Python", "FastAPI"]
         self.background = ["Kotlin", "Java", "Android (native)"]
